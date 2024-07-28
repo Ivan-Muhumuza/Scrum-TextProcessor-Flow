@@ -1,3 +1,6 @@
+[loom video](https://www.loom.com/share/12cbdbed868d42c1a0e3764ff938d806?sid=64e820e2-56c7-48b9-921c-93c2176ade0a)
+
+
 # JavaFX Text Processing Tool Documentation
 # 1. Introduction
 
